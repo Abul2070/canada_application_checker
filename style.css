@@ -24,13 +24,13 @@ h1{
     outline: none;
     border: none;
     font-size: 18px;
-    display: block;
     margin: 10px 0px;
     text-align: center;
     width: 123px;
     border-radius: 5px;
     text-decoration: none;
     transition: .3s;
+    display: inline-block;
 }
 .button:hover{
     background: #504c4c;
