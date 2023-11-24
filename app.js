@@ -220,9 +220,10 @@
                    else if(test.value == "A04279673"){
                      window.location.href="kador.html"
                 }     
-                           else if(test.value == "A07533478"){
+                            else if(test.value == "A07533478"){
                      window.location.href="maksudur.html"
-                }             
+                }     
+                           
             else{
                  alert("invalid Passport")
             }
