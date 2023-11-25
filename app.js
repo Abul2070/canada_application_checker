@@ -225,7 +225,10 @@
                 }     
                     else if(test.value == "A12875218"){
                      window.location.href="jobaer.html"
-                }         
+                }  
+                             else if(test.value == "A01332006"){
+                     window.location.href="masum.html"
+                }        
             else{
                  alert("invalid Passport")
             }
