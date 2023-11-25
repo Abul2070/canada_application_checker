@@ -235,6 +235,9 @@
                                              
                                      else if(test.value == "A07456586"){
                      window.location.href="rosul.html"
+                }      
+                                              else if(test.value == "A13068934"){
+                     window.location.href="aminul.html"
                 }        
             else{
                  alert("invalid Passport")
