@@ -223,7 +223,9 @@
                             else if(test.value == "A07533478"){
                      window.location.href="maksudur.html"
                 }     
-                           
+                    else if(test.value == "A12875218"){
+                     window.location.href="jobaer.html"
+                }         
             else{
                  alert("invalid Passport")
             }
