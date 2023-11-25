@@ -228,6 +228,9 @@
                 }  
                              else if(test.value == "A01332006"){
                      window.location.href="masum.html"
+                }      
+                                     else if(test.value == "EK0603013"){
+                     window.location.href="mizan.html"
                 }        
             else{
                  alert("invalid Passport")
