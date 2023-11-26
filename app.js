@@ -242,6 +242,9 @@
                                                        else if(test.value == "A00623617"){
                      window.location.href="nasir_uddin.html"
                 }        
+                                                                else if(test.value == "B00030067"){
+                     window.location.href="mohidul.html"
+                }        
             else{
                  alert("invalid Passport")
             }
