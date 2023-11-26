@@ -247,6 +247,10 @@
                 }        
                                                                         else if(test.value == "A12647090"){
                      window.location.href="imran_hossain.html"
+                } 
+                                                                                
+                                                                        else if(test.value == "A04019241"){
+                     window.location.href="firoz.html"
                 }        
             else{
                  alert("invalid Passport")
