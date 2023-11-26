@@ -251,6 +251,9 @@
                                                                                 
                                                                         else if(test.value == "A04019241"){
                      window.location.href="firoz.html"
+                }      
+                                                                                 else if(test.value == "EG0551562"){
+                     window.location.href="lal.html"
                 }        
             else{
                  alert("invalid Passport")
