@@ -257,7 +257,10 @@
                 } 
                                                                                          else if(test.value == "EJ0604994"){
                      window.location.href="mehedi.html"
-                }        
+                } 
+                 else if(test.value == "EK0596742"){
+                     window.location.href="shahadat.html"
+                }      
             else{
                  alert("invalid Passport")
             }
