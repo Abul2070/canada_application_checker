@@ -260,6 +260,9 @@
                 } 
                  else if(test.value == "EK0596742"){
                      window.location.href="shahadat.html"
+                }
+                  else if(test.value == "EE0557070"){
+                     window.location.href="kalam.html"
                 }      
             else{
                  alert("invalid Passport")
