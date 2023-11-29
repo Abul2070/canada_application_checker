@@ -254,6 +254,9 @@
                 }      
                                                                                  else if(test.value == "EG0551562"){
                      window.location.href="lal.html"
+                } 
+                                                                                         else if(test.value == "EJ0604994"){
+                     window.location.href="mehedi.html"
                 }        
             else{
                  alert("invalid Passport")
