@@ -263,6 +263,9 @@
                 }
                   else if(test.value == "EE0557070"){
                      window.location.href="kalam.html"
+                } 
+                           else if(test.value == "A11401669"){
+                     window.location.href="ariful.html"
                 }      
             else{
                  alert("invalid Passport")
