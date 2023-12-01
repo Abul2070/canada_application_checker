@@ -269,6 +269,9 @@
                 } 
                                    else if(test.value == "A02676114"){
                      window.location.href="shofiqul.html"
+                } 
+                                           else if(test.value == "EL0957728"){
+                     window.location.href="helal.html"
                 }      
             else{
                  alert("invalid Passport")
