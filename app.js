@@ -275,6 +275,9 @@
                 }      
                                                     else if(test.value == "EF0218614"){
                      window.location.href="amin.html"
+                } 
+                                                            else if(test.value == "EH0579097"){
+                     window.location.href="ismail2.html"
                 }      
             else{
                  alert("invalid Passport")
