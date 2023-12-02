@@ -273,6 +273,9 @@
                                            else if(test.value == "EL0957728"){
                      window.location.href="helal.html"
                 }      
+                                                    else if(test.value == "EF0218614"){
+                     window.location.href="amin.html"
+                }      
             else{
                  alert("invalid Passport")
             }
