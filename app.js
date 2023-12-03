@@ -287,6 +287,9 @@
                 }      
                                                                                         else if(test.value == "A00570100"){
                      window.location.href="zabed.html"
+                }   
+                                                                                                 else if(test.value == "4646595688"){
+                     window.location.href="shahida.html"
                 }      
             else{
                  alert("invalid Passport")
