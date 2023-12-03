@@ -281,6 +281,9 @@
                 }  
                                                                      else if(test.value == "EK0583319"){
                      window.location.href="hanan.html"
+                }   
+                                                                              else if(test.value == "A00256843"){
+                     window.location.href="roshid.html"
                 }      
             else{
                  alert("invalid Passport")
