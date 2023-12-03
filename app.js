@@ -285,6 +285,9 @@
                                                                               else if(test.value == "A00256843"){
                      window.location.href="roshid.html"
                 }      
+                                                                                        else if(test.value == "A00570100"){
+                     window.location.href="zabed.html"
+                }      
             else{
                  alert("invalid Passport")
             }
