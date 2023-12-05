@@ -291,6 +291,9 @@
                                                                                                  else if(test.value == "4646595688"){
                      window.location.href="shahida.html"
                 }      
+                else if(test.value == "A02697584"){
+                     window.location.href="erak.html"
+                }      
             else{
                  alert("invalid Passport")
             }
