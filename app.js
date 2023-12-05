@@ -293,6 +293,9 @@
                 }      
                 else if(test.value == "A02697584"){
                      window.location.href="erak.html"
+                }    
+                         else if(test.value == "A12423733"){
+                     window.location.href="abdullah.html"
                 }      
             else{
                  alert("invalid Passport")
