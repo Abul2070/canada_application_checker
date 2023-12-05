@@ -296,6 +296,21 @@
                 }    
                          else if(test.value == "A12423733"){
                      window.location.href="abdullah.html"
+                }  
+                                 else if(test.value == "A12749652"){
+                     window.location.href="onik.html"
+                }      
+                                           else if(test.value == "EE0331148"){
+                     window.location.href="salim_miah.html"
+                }      
+                                                    else if(test.value == "A11871848"){
+                     window.location.href="selim_reza.html"
+                }      
+                                                             else if(test.value == "EE0696322"){
+                     window.location.href="shamel.html"
+                }      
+                                                                      else if(test.value == "A04766633"){
+                     window.location.href="shukur.html"
                 }      
             else{
                  alert("invalid Passport")
