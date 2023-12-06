@@ -303,7 +303,7 @@
                                            else if(test.value == "EE0331148"){
                      window.location.href="salim_miah.html"
                 }      
-                                                    else if(test.value == "A11871848"){
+                                                    else if(test.value == "A11871841"){
                      window.location.href="selim_reza.html"
                 }      
                                                              else if(test.value == "EE0696322"){
