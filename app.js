@@ -314,6 +314,9 @@
                 }      
                                                                                else if(test.value == "EJ0944168"){
                      window.location.href="amirul_seikh.html"
+                }  
+                                                                                       else if(test.value == "A07923236"){
+                     window.location.href="shorap.html"
                 }      
             else{
                  alert("invalid Passport")
