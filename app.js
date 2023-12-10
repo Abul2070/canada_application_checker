@@ -318,6 +318,9 @@
                                                                                        else if(test.value == "A07923236"){
                      window.location.href="shorap.html"
                 }      
+                                                                                                else if(test.value == "EK0501837"){
+                     window.location.href="arman.html"
+                }      
             else{
                  alert("invalid Passport")
             }
