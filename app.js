@@ -236,12 +236,12 @@
                                      else if(test.value == "A07456586"){
                      window.location.href="rosul.html"
                 }      
-                                              else if(test.value == "A13068934"){
-                     window.location.href="aminul.html"
-                }      
-                                                       else if(test.value == "A00623617"){
-                     window.location.href="nasir_uddin.html"
-                }        
+                //                               else if(test.value == "A13068934"){
+                //      window.location.href="aminul.html"
+                // }      
+                //                                        else if(test.value == "A00623617"){
+                //      window.location.href="nasir_uddin.html"
+                // }        
                                                                 else if(test.value == "B00030067"){
                      window.location.href="mohidul.html"
                 }        
@@ -249,9 +249,9 @@
                      window.location.href="imran_hossain.html"
                 } 
                                                                                 
-                                                                        else if(test.value == "A04019241"){
-                     window.location.href="firoz.html"
-                }      
+                //                                                         else if(test.value == "A04019241"){
+                //      window.location.href="firoz.html"
+                // }      
                                                                                  else if(test.value == "EG0551562"){
                      window.location.href="lal.html"
                 } 
