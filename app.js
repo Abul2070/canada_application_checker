@@ -326,6 +326,9 @@
                 } 
                         else if(test.value == "EK0115518"){
                      window.location.href="murshed.html"
+                }
+                                else if(test.value == "EA0614429"){
+                     window.location.href="monir2.html"
                 }      
             else{
                  alert("invalid Passport")
