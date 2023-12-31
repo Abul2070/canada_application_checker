@@ -329,6 +329,9 @@
                 }
                                 else if(test.value == "EA0614429"){
                      window.location.href="monir2.html"
+                }    
+                                           else if(test.value == "EH0773355"){
+                     window.location.href="monawar.html"
                 }      
             else{
                  alert("invalid Passport")
